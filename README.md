@@ -9,5 +9,3 @@
 https://www.tej.com.tw
 ## 說明網站
 https://api.tej.com.tw
-## 商業模式與大數據分析競賽
-https://bba.cm.nsysu.edu.tw/
