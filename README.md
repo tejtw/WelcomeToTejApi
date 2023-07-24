@@ -4,6 +4,6 @@
 為協助各界以開放式語言導入財經相關資訊，將時間與精力花費在建模、結果分析、及決策判斷，台灣經濟新報TEJ即日起推出TEJ API工具，首階段導入Python語言，也提供使用範例，歡迎您申請試用帳號。
 
 ## 台灣經濟新報
-https://www.tej.com.tw
+[https://www.tej.com.tw](https://www.tejwin.com/)
 ## 說明網站
 https://api.tej.com.tw
