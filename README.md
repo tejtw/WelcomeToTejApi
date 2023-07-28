@@ -7,3 +7,6 @@
 https://www.tejwin.com/
 ## 說明網站
 https://api.tej.com.tw
+## 程式內容說明
+本文將透過PYTHON來串連TEJAPI資料庫，讓讀者可以使用免費試用版的TEJ今要來進行資料庫實作
+影片連結：
